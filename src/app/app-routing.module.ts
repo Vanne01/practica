@@ -1,6 +1,7 @@
 import { RouterModule, Routes } from '@angular/router';
 import { NgModule } from '@angular/core';
 import { ItemListComponent } from './components/views/item-list/item-list.view';
+import { ProductListComponent } from './components/views/product-list/product-list.view';
 import { HomeComponent } from './components/home/home.component';
 
 // Our Array of Angular 2 Routes
@@ -12,6 +13,10 @@ const appRoutes: Routes = [
   {
     path: 'item-list',
     component: ItemListComponent // Item-List View Route,
+  },
+   {
+    path: 'product-list',
+    component: ProductListComponent // Product-List View Route,
   },
   { path: '**', component: HomeComponent } // "Catch-All" Route
 ];

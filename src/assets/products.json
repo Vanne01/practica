@@ -1,0 +1,37 @@
+[{
+  "id": 1,
+  "name": "Manzanas",
+  "type": "Fruta",
+  "price": 82.41,
+  "stock": 22
+}, {
+  "id": 2,
+  "name": "Aspirinas",
+  "type": "Medicamento",
+  "price": 44.62,
+  "stock": 19
+}, {
+  "id": 3,
+  "name": "Sillas",
+  "type": "Hogar",
+  "price": 16.72,
+  "stock": 9
+}, {
+  "id": 4,
+  "name": "Televisor",
+  "type": "Electrónica",
+  "price": 38.39,
+  "stock": 19
+}, {
+  "id": 5,
+  "name": "Ibuprofeno",
+  "type": "Medicamento",
+  "price": 73.74,
+  "stock": 78
+}, {
+  "id": 6,
+  "name": "Celular",
+  "type": "Electrónica",
+  "price": 90.65,
+  "stock": 22
+}]
